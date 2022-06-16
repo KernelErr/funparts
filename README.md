@@ -14,7 +14,7 @@ View 3D model with Bevy.
 
 ### 八咫みるく
 
-![](./docs/2022-06-16 11-35-57.gif)
+<img src="./docs/2022-06-16 11-35-57.gif" />
 
 Try 3D animation.
 
